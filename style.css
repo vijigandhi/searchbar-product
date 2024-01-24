@@ -1,0 +1,68 @@
+body{
+    width: 99%;
+}
+
+input
+{
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(241, 241, 241);
+    box-shadow: 0px 0px 3px gray;
+    border: #e4e4e4;
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+
+.container-1,.container-2,.container-3
+{
+    display: flex;
+    gap: 4%;
+    margin-left: 25%;
+    margin-top: -10px;
+}
+
+h1
+{
+    text-align: center;
+}
+.price
+{
+    text-align: center;
+    color: #072442;
+}
+p
+{
+    text-align: center;
+    color:#95a4b3 ; 
+}
+
+.con> img
+{
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.con
+{
+    width: 25%;
+}
+
+.h3_alert_box{
+    text-align: center;
+    position: relative;
+    top: 251px;
+    display: none;
+}
+
+
+.opacity{
+
+    display: none;
+}
+
+.no_math_product_name{
+    display: block;
+}
